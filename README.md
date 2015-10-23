@@ -241,7 +241,7 @@ The "access" package manages permissions and middleware. It controls the various
 The "theme" package adds some basic CSS and other assets such as images and backgrounds
 #### Articles
 The "articles" package is typically used as an example starting point for managing content that might be used in a blog or cms. The full CRUD is implemented on the server and client.
-### Files structure
+### File structure
 The file structure is similar to that of the mean project itself
 
 `Fundamental` Files at the `root` of the package
@@ -689,7 +689,7 @@ $ heroku config:set NODE_ENV=production
   * To our awesome <a href="https://github.com/orgs/linnovate/teams/mean">core team</a> with help of our <a href="https://github.com/linnovate/mean/graphs/contributors">contributors</a> which have made this project a success.
   * <a href="https://github.com/vkarpov15">Valeri Karpov</a> for coining the term *mean* and triggering the mean stack movement.
   * <a href="https://github.com/amoshaviv">Amos Haviv</a>  for the creation of the initial version of Mean.io while working for us @linnovate.
-  * <a href="https://github.com/madhums/">Madhusudhan Srinivasa</a> which inspired us with his great work.
+  * <a href="https://github.com/madhums/">Madhusudhan Srinivasa</a> who inspired us with his great work.
 
 ## License
 We believe that mean should be free and easy to integrate within your existing projects so we chose [The MIT License](http://opensource.org/licenses/MIT)
